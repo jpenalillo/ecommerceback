@@ -1,0 +1,8 @@
+const POSTGRESQL_ADDON_HOST='bpzjckbsmcjiwxaprexs-postgresql.services.clever-cloud.com'
+const POSTGRESQL_ADDON_DB='bpzjckbsmcjiwxaprexs'
+const POSTGRESQL_ADDON_USER='uml4i45icpsyivikusrd'
+const POSTGRESQL_ADDON_PORT=5432
+const POSTGRESQL_ADDON_PASSWORD='ITU3Q2k6KRzXalYkOYAJY6tuKXb5Lx'
+//const POSTGRESQL_ADDON_URI='postgresql://uml4i45icpsyivikusrd:ITU3Q2k6KRzXalYkOYAJY6tuKXb5Lx@bpzjckbsmcjiwxaprexs-postgresql.services.clever-cloud.com:5432/bpzjckbsmcjiwxaprexs'
+
+module.exports = {POSTGRESQL_ADDON_HOST,POSTGRESQL_ADDON_DB,POSTGRESQL_ADDON_USER,POSTGRESQL_ADDON_PASSWORD,POSTGRESQL_ADDON_PORT}
